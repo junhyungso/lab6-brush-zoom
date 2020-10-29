@@ -1,0 +1,12 @@
+h1 {
+    color: purple;
+    font-family: serif;
+    font-style: italic;
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+    color: darkslategray;
+}
+
